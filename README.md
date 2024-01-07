@@ -1,2 +1,4 @@
 # Intro_to_DS_Capstone
-My contributions and lab code used to complete capstone project for Introduction to data science course 
+This capstone project uses what we learned in the semester to understand the factors that influence Spotify song popularity on 52000 songs.
+
+
